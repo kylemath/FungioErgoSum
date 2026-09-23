@@ -21,7 +21,7 @@ Simply open `index.html` in your browser to view locally.
 
 ## Files
 
-- `index.html` - Main manifesto content
+- `index.html` - Main book content
 - `fungio_style.css` - Styling for the site
 
 
