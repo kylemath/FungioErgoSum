@@ -2,7 +2,7 @@
 
 A comprehensive exploration of fungal consciousness and its role in evolution - the hidden partnerships that shape all life.
 
-**Live web book:** https://kylemath.github.io/fungio-manifesto-site
+**Live web book:** https://kylemath.github.io/FungioErgoSum
 
 <p align="center">
   <img src="screenshot.png" alt="Project screenshot" width="400" />
@@ -13,7 +13,7 @@ A comprehensive exploration of fungal consciousness and its role in evolution - 
 
 This site is automatically deployed to github pages
 
-**Live Site:** https://kylemath.github.io/fungio-manifesto-site
+**Live Site:** https://kylemath.github.io/FungioErgoSum
 
 ## Local Development
 
